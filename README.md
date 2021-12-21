@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**MrMarito/MrMarito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mário Lemos, a portuguese student in the last year of Informatics Engineer at University of Coimbra
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on University Projects
+- 🌱 I’m currently learning 
+- 📫 How to reach me: @mario.gui.5 on instagram or marioguilherme7@gmail.com
+- ⚡ Fun fact: I play snooker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+My favorite programming language is:
+
+-> C
+
+I also know:
+
+-> Python
+-> Java
+-> MatLab
+
+I can speak:
+
+-> Portuguese
+-> English
