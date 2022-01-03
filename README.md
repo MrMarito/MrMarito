@@ -16,12 +16,15 @@ My favorite programming language is:
 I also know:
 
 -> Python
+
 -> Java
+
 -> MatLab
 
 I can speak:
 
 -> Portuguese
+
 -> English
 
 
