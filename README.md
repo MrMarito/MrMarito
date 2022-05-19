@@ -3,7 +3,7 @@
 I'm Mário Lemos, a portuguese student in the last year of Informatics Engineer at University of Coimbra
 
 - 🔭 I’m currently working on University Projects
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: @mario.gui.5 on instagram or marioguilherme7@gmail.com
 - ⚡ Fun fact: I play snooker
 
@@ -11,7 +11,7 @@ I'm Mário Lemos, a portuguese student in the last year of Informatics Engineer 
 
 My favorite programming language is:
 
--> C
+-> C/C++
 
 I also know:
 
